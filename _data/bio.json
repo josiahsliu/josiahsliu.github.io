@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Josiah Liu",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/josiahsliu.png",
+    "email": "josiahsk@hawaii.edu",
+    "phone": "808-747-3552",
+    "website": "https://josiahsliu.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "josiahsliu", "url": "http://github.com/josiahsliu" },
+      { "network": "linkedin", "username": "josiah-liu", "url": "http://linkedin.com/in/josiah-liu-77813428a/" }
+      
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Programming" },
+    { "name": "Gym" },
+    { "name": "Games" },
+    { "name": "Surfing" }
   ],
   "skills": [
     {
