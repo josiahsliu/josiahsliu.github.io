@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/download.png
 title: "ILWU Food Drive"
 date: 2020
 published: true
