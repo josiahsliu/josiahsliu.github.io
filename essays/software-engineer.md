@@ -10,7 +10,6 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/javascript.webp">
 
 # Inspiration 
 
