@@ -16,7 +16,12 @@ summary: "My first practice WOD for ICS 314."
   
 </div>
 
-This project was a part of my scholarship "PWH" when I was in high school. This scholarship was given to people only to four schools which were Saint Francis, Saint Joeseph in Hilo, Damien High School, and Sacred Hearts. We would do plenty of projects to help our community but this was a very good opportunity. Me and many other scholars volunteer to do a beach cleanup and teamted up with "808cleanups". The beach that we cleanup was Sherwoods Beach in Waimanalo which was one of the few beaches that was filled with many debris and rubbish that was on shore. This was honestly one of the best projects that I enjoyed and helped out the community. 
+#The Practice WOD
+
+This was my first practice WOD for ICS 314. Practice WOD are "Workout of the day", which helps us prepare for the real WOD's on game day. I was a bit nervous for the practice WOD but I had to treat it that it's the real deal. The objective of the practice WOD was that we must create a function called "feelsLike" which would accept two numbers with the first one being the temperature of Fahrenheit and the second being humidity as a value between 0 through 100. Then it should return a string containing the temperature if it's Extreme Danger, Danger, Extreme Caution, Caution, or OK. 
+
+After solving, eventually my code was correct and my time was "Av:10-15 min" which was really good. What I did was add "if" statements for the temperature to see if return the following Extreme Danger, Danger and etc. 
+
 
 <img width="400px" src="../img/practiceWODTA.png" class="img-thumbnail" >
 
