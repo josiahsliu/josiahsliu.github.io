@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_8674.jpg
+image: img/IMG_8764.jpg
 title: "PWH Beach Cleanup"
 date: 2019-8-17
 published: true
