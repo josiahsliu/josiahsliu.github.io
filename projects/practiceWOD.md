@@ -21,6 +21,6 @@ This was my first practice WOD for ICS 314. Practice WOD are "Workout of the day
 After solving, eventually my code was correct and my time was "Av:10-15 min" which was really good. What I did was add "if" statements for the temperature to see if return the following Extreme Danger, Danger and etc. 
 
 
-<img width="400px" src="../img/practiceWODTA.png" class="img-thumbnail" >
+<img width="600px" src="../img/practiceWODTA.png" class="img-thumbnail" >
 
 
