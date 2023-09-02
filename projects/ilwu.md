@@ -8,6 +8,8 @@ published: true
 labels:
   - Volunteer
   - Life
+  - Scholarship
+  - ILWU
 summary: "My team and I helped during the food drive for ILWU during Covid-19."
 ---
 
