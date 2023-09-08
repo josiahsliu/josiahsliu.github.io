@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/coding.png
+image: img/coding1.jpeg
 title: "My first practice WOD!"
 date: 2023-8-30
 published: true
