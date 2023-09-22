@@ -12,11 +12,11 @@ labels:
   - ESLint
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/javascript.webp">
+<img width="350px" class="rounded float-start pe-4" src="../img/codingstandard.webp">
 
 # Coding Standards : Errors
 
-For one week using ESLint, I always get confused and a bit scared noticing that all of my code shows an error all the time. I tend not to get frustrated and realize that my code is fine and just needs some fixing. Although it’s a bit of a hassle, it does help me to be organized. 
+For one week using ESLint, I always get confused and a bit scared noticing that all of my code shows an error all the time. I tend not to get frustrated and realize that my code is fine and just needs some fixing. Although it’s a bit of a hassle, it does help me to be organized. ESLint was defintely a game changer every since I started using this which was pretty interesting but sometimes it can be painful to use. 
 
 # My Impressions
 
