@@ -35,7 +35,21 @@ When it comes to the use of AI (Artificial Intelligence), many people think that
 
 * Asking or answering a smart-question : I would sometimes use google or maybe ChatGPT to ask a question but usually I never really had to. I would say using AI to answer your questions is very useful. Personally for me I would want to ask google or ChatGPT a question then if I don't know the answer then I would ask the class. 
 
-* Coding example e.g. “give an example of using Underscore .pluck” : For code examples I would use the internet on what it's used for and how 
+* Coding example e.g. “give an example of using Underscore .pluck” : For code examples I would use the internet on what it's used for and how
+
+* Explaining code : For explaining code, using AI like ChatGPT is a great way to explain what the code does and what does it include but some can be not so helpful. For example, GitHub Co-Pilot is a bit different because it prints out just the code which is helpful but doesn't really explain code.
+
+* Writing code : For writing code, I would use GitHub CoPilot more than ChatGPT because ChatGPT isn't always right. ChatGPT does explain the code which is a great useful source but it's not reliable. For GitHub CoPilot, is a great AI for writing code for you which is very helpful whenever you're stuck on a problem.
+
+* Documenting code : Documenting code can be both ways with understanding the problem but GitHub CoPilot is very useful when documenting code.
+
+* Quality assurance : This is problem the most helpful because whenever there is an error with the code "ESLint" can be very helpful which is a great way whenever you're stuck with a code. There is no reason for use AI in this scenario.
+
+* Other uses in ICS 314 not listed : I didn't use any other AI in my ICS 314 class except for ChatGPT and GitHub CoPilot but I'm very interesting in expanding all different versions of AI.
+
+# Impact on Learning and Understanding
+
+So far during my AI journey in this class, it was very helpful although sometimes it can a bit complex and confusing. 
 
 
 
