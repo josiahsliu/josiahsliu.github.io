@@ -49,7 +49,23 @@ When it comes to the use of AI (Artificial Intelligence), many people think that
 
 # Impact on Learning and Understanding
 
-So far during my AI journey in this class, it was very helpful although sometimes it can a bit complex and confusing. 
+So far during my AI journey in this class, it was very helpful although sometimes it can a bit complex and confusing. For example, whenever I tried to use ChatGPT, although it can be very helpful by telling you different alternatives or different ways that you can approach to your code it's not always right. Using ChatGPT for me is a way of giving me ideas instead of giving me the answer. GitHub CoPilot is giving you ideas and the answer which I love but the downside about GitHub CoPilot is that it doesn't explain what the code does which is kind of a bummer. I would say I was more likely to brain solve my code and the problems I had which is a great way for me to get better at coding which I ejoyed the most. I enjoyed getting challenged everytime. 
+
+# Practical Applications
+
+I believe everyone that is in the "coding" industry has used some type of AI. For example, I went to "meet tech professionals" during the semester and they have told me that they would use ChatGPT to give them an idea for there code and projects. They would use that information to give them ideas. I was a bit shocked but also interested because AI seems as if it's a very useful source which it is to everyone and everywhere. 
+
+# Challenges and Opportunities
+
+Some challenges I would say for the use of AI is using GitHub CoPilot. I wouldn't say ChatGPT just because I can use ChatGPT as a resource or useful information. For GitHub CoPilot, I've explained that it would give me just the answer with no explanation. When writing my code it would give me random input. It seemed as if GitHub CoPilot is guessing that's what I want but most of the time it's not what I want. It's nice to have just in case it knows what I want and I can clikc 'tab" to type it out for me. Using AI ca be challenging but AI can be also be resourceful.
+
+# Comparative Analysis
+
+Between traditional teaching methods and AI-enhanced approaches I do believe that traditional teaching methods is a lot better and useful. The reason why is because you can't really learn a lot from an AI. With teaching methods you can engage a lot with your classmates as well as learning a lot more than AI. AI is for people who wants to get ideas or different apporaches for your code and many other things. 
+
+# Future Considerations
+
+One thing about AI that I would say is that using AI isn't a bad thing. It's very useful and can help you in a lot of different ways. I would say there is a lot of areas for improvement like GitHub CoPilot. One thing they can do for GitHub CoPilot is that after impleting a code they should explain what it does like ChatGPT. In the future, I know that AI will get better and better which I'm very excited about. Using AI is a great thing and it's never a bad thing. Being able to use AI can help us be more open minded and to have more knowledge.
 
 
 
