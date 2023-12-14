@@ -4,14 +4,14 @@ type: essay
 title: "Experience Software Engineer With Me"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-13
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
   - Reflection
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="../img/design-patterns-image-1.png">
+<img width="550px" class="rounded float-start pe-4" src="../img/softwareeng.jpeg">
 
 # The Adventure of Software Engineering ! 
 
@@ -27,4 +27,4 @@ UI Frameworks is very neat and has helped me with my WODs and my Final Project i
 
 # Conclusion
 
-In conclusion, all topics during this semester for ICS 314 was very useful but I strongly believe that Coding Standards and UI Framework were the best in my opinion which helped me throughout this whole semester. 
+In conclusion, all topics during this semester for ICS 314 was very useful which I can use in the future but I strongly believe that Coding Standards and UI Framework were the best in my opinion which helped me throughout this whole semester. This course has challenged me with my knowledge but I'm very excited that I'm able to use what I've learned in this class in the future to the real world. Many of the other topics that I didn't mention will also help me in the future which I'm really excited for. 
