@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Josiah Liu",
+    "label": "Student",
+    "picture": "https://github.com/josiahsliu.png",
+    "email": "josiahsk@hawaii.edu",
+    "phone": "808-747-3552",
+    "website": "https://josiahsliu.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "josiahsliu", "url": "http://github.com/josiahsliu" },
+      { "network": "linkedin", "username": "josiah-liu", "url": "http://linkedin.com/in/josiah-liu-77813428a/" }
+      
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Programming" },
+    { "name": "Fitness" },
+    { "name": "Games" },
+    { "name": "Surfing" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": ["C++", "Java", "Javascript", "HTML", "CSS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "WindowsOS", "Git/GitHub", "JSFiddle", "Eclipse", "Terminal" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2023-08-20",
+      "endDate": "Present",
+      "courses": [ 
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Warrior Rec Center",
+      "position": "SA (Service Associate) ",
+      "website": "",
+      "startDate": "2022-08-023",
+      "endDate": "Present",
+      "summary": "Monitor patrons to stay safe at the WRC",
+      "highlights": [
+        "Making sure patrons are lifting properly and safely.",
+        "Sanitizing machines while making sure it's working properly.",
+        "Providing information to patrons about the WRC and equipment."
+      ]
+      
+    },
+    {
+      "company": "Whole Foods Market, Kahala Mall",
+      "position": "Courtesy Clerk",
+      "website": "",
+      "startDate": "2022-04-01",
+      "endDate": "2022-08-22",
+      "summary": "Helping customers and returning shopping cart",
+      "highlights": [
+        "Help pack customers grocery.",
+        "Restock ice, napkins, bags, and utensils for customers.",
+        "Cart retriever for customers."
+      ]
+    },
+    {
+      "company": "Vision Source Honolulu, Honolulu",
+      "position": "Afterschool Hire",
+      "website": "",
+      "startDate": "2018",
+      "endDate": "2021",
+      "summary": "Helping around the office with data work",
+      "highlights": [
+        "Office work filing.",
+        "Data entry, stuffing envelopes, scanning documents, xerox copying, and sort mail.",
+        "Check in supplies."
+      ]
+    }
+    
+  ],
+  "volunteer": [
+    {
+      "organization": "ILWU - Harriet Bouslog Scholarship",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "Food drive to ILWU members",
+      "highlights": [
+        "Help give ILWU family members bags of produce, foods and dairy."
+      ]
+    },
+  
+  ],
+  "awards": [
+    {
+      "title": "PWH Scholarship",
+      "date": "2017-2019",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i private School."
+    },
+
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
