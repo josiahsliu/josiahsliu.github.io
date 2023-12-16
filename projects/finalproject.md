@@ -20,9 +20,9 @@ I know this was an assignment but this helped me a lot to improve my coding skil
 
 Everyone in my group contributed and it was fair game. What I did was that I was able to make the Landing Page, as far as other things which was the NavBar and other things. One of the few things that I enjoyed the most during this project was able to add a variety of locations and instruments for the user to create it's profile or concert. Some points that I got out of this project was able on how to use GitHub properly, how to merge or create an issue, testing each page, and to able to communicate with one another which I really enjoyed about this project and hopefully use these in the future. 
 
-<p>To learn more about our project : <a href ="https://campus-concert.github.io/"></a></p>
-<p>Link to our website : <a href ="https://campus-concert.com/"></a></p>
-<p>Link to our Repository : <a href ="https://github.com/campus-concert/campus-concert"></a></p>
+<p>To learn more about our project : <a href ="https://campus-concert.github.io/">Here</a></p>
+<p>Link to our website : <a href ="https://campus-concert.com/"></a>Here</p>
+<p>Link to our Repository : <a href ="https://github.com/campus-concert/campus-concert">Here</a></p>
 
 <div class="text-center p-4">
   <img width="700px" src="../img/CampusConcert.png" class="img-thumbnail" >
